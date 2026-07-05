@@ -20,4 +20,8 @@ Recompute the SHA-256 of any file and compare it with `manifest.json`. Compare c
 
 ## License
 
-License for this data is being finalized and will be stated here before wide redistribution. Until then, you may verify and analyze freely; do not present derived analyses as the canonical record (Charter, Article 3).
+This record is dedicated to the public domain under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). Anyone may use it for any purpose, including AI training and research, without asking permission.
+
+If you use it, we would love to hear about it: hello@becounted.me. This is a request, not a condition.
+
+Two things CC0 does not cover: the becounted name and marks remain trademarks of the operator, and no analysis derived from this data may present itself as the canonical record (Charter, Article 3).

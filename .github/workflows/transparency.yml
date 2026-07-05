@@ -1,0 +1,35 @@
+name: transparency-log
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "30 14 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  dump:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Dump public record
+        run: node scripts/transparency-dump.mjs
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          DUMP_SALT: ${{ secrets.DUMP_SALT }}
+      - name: Timestamp manifest (best effort)
+        continue-on-error: true
+        run: |
+          pip install --quiet opentimestamps-client
+          ots stamp transparency/$(date -u +%F)/manifest.json
+      - name: Commit
+        run: |
+          git config user.name "becounted-log"
+          git config user.email "hello@becounted.me"
+          git add transparency
+          git commit -m "transparency: $(date -u +%F)" || echo "no changes"
+          git push

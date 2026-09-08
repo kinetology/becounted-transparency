@@ -1,0 +1,119 @@
+[
+ {
+  "id": 1,
+  "person": "b98a912b0a43ef8c",
+  "question_id": 9,
+  "choice": "B",
+  "verification_tier": "email",
+  "country_code": "KR",
+  "created_at": "2026-07-06T03:51:08.603707+00:00"
+ },
+ {
+  "id": 2,
+  "person": "b98a912b0a43ef8c",
+  "question_id": 3,
+  "choice": "B",
+  "verification_tier": "email",
+  "country_code": "KR",
+  "created_at": "2026-07-06T03:52:59.853252+00:00"
+ },
+ {
+  "id": 3,
+  "person": "b98a912b0a43ef8c",
+  "question_id": 5,
+  "choice": "A",
+  "verification_tier": "email",
+  "country_code": "KR",
+  "created_at": "2026-07-06T03:53:31.543025+00:00"
+ },
+ {
+  "id": 4,
+  "person": "b98a912b0a43ef8c",
+  "question_id": 12,
+  "choice": "A",
+  "verification_tier": "email",
+  "country_code": "KR",
+  "created_at": "2026-07-06T03:53:42.125488+00:00"
+ },
+ {
+  "id": 5,
+  "person": "b98a912b0a43ef8c",
+  "question_id": 15,
+  "choice": "B",
+  "verification_tier": "email",
+  "country_code": "KR",
+  "created_at": "2026-07-06T03:53:54.991555+00:00"
+ },
+ {
+  "id": 6,
+  "person": "b98a912b0a43ef8c",
+  "question_id": 16,
+  "choice": "A",
+  "verification_tier": "email",
+  "country_code": "KR",
+  "created_at": "2026-07-06T03:54:17.399467+00:00"
+ },
+ {
+  "id": 7,
+  "person": "adef9cc3139cd9bf",
+  "question_id": 16,
+  "choice": "A",
+  "verification_tier": "email",
+  "country_code": "KR",
+  "created_at": "2026-07-06T04:05:31.714337+00:00"
+ },
+ {
+  "id": 8,
+  "person": "adef9cc3139cd9bf",
+  "question_id": 9,
+  "choice": "A",
+  "verification_tier": "email",
+  "country_code": "KR",
+  "created_at": "2026-07-06T04:05:31.840888+00:00"
+ },
+ {
+  "id": 9,
+  "person": "adef9cc3139cd9bf",
+  "question_id": 16,
+  "choice": "A",
+  "verification_tier": "email",
+  "country_code": "KR",
+  "created_at": "2026-07-06T04:05:31.950563+00:00"
+ },
+ {
+  "id": 10,
+  "person": "adef9cc3139cd9bf",
+  "question_id": 9,
+  "choice": "A",
+  "verification_tier": "email",
+  "country_code": "KR",
+  "created_at": "2026-07-06T04:05:32.057028+00:00"
+ },
+ {
+  "id": 11,
+  "person": "adef9cc3139cd9bf",
+  "question_id": 9,
+  "choice": "A",
+  "verification_tier": "email",
+  "country_code": "KR",
+  "created_at": "2026-07-06T04:05:41.790461+00:00"
+ },
+ {
+  "id": 12,
+  "person": "adef9cc3139cd9bf",
+  "question_id": 9,
+  "choice": "A",
+  "verification_tier": "email",
+  "country_code": "KR",
+  "created_at": "2026-07-06T04:07:01.20606+00:00"
+ },
+ {
+  "id": 13,
+  "person": "adef9cc3139cd9bf",
+  "question_id": 3,
+  "choice": "A",
+  "verification_tier": "email",
+  "country_code": "KR",
+  "created_at": "2026-07-06T04:10:59.98425+00:00"
+ }
+]

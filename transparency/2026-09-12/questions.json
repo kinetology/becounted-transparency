@@ -1,0 +1,178 @@
+[
+ {
+  "id": 1,
+  "slug": "trolley-switch",
+  "tier": "S",
+  "status": "open",
+  "text_en": "A runaway trolley is heading toward five people. You can pull a lever to divert it onto another track, where it will kill one person instead. Do you pull the lever?",
+  "text_ko": "폭주하는 전차가 다섯 사람을 향해 달려갑니다. 레버를 당기면 전차가 다른 선로로 방향을 바꾸어 그곳의 한 사람이 죽습니다. 레버를 당기시겠습니까?",
+  "option_a_en": "I pull it",
+  "option_b_en": "I don't",
+  "created_at": "2026-07-02T15:22:34.470834+00:00"
+ },
+ {
+  "id": 2,
+  "slug": "footbridge",
+  "tier": "S",
+  "status": "open",
+  "text_en": "A runaway trolley is heading toward five people. The only way to stop it is to push a large man off a footbridge into its path. He dies; the five live. Do you push him?",
+  "text_ko": "폭주하는 전차가 다섯 사람을 향해 달려갑니다. 전차를 멈출 유일한 방법은 다리 위의 덩치 큰 사람을 선로로 밀어 떨어뜨리는 것입니다. 그가 죽고 다섯이 삽니다. 미시겠습니까?",
+  "option_a_en": "I push",
+  "option_b_en": "I don't",
+  "created_at": "2026-07-02T15:22:34.470834+00:00"
+ },
+ {
+  "id": 3,
+  "slug": "heinz",
+  "tier": "S",
+  "status": "open",
+  "text_en": "A pharmacist charges an impossible price for the drug that would save your spouse. You cannot raise the money. Do you steal the drug?",
+  "text_ko": "약사가 배우자의 생명을 구할 약값으로 폭리를 요구하고, 당신에게는 그 돈이 없습니다. 약을 훔치시겠습니까?",
+  "option_a_en": "I steal it",
+  "option_b_en": "I don't",
+  "created_at": "2026-07-02T15:22:34.470834+00:00"
+ },
+ {
+  "id": 4,
+  "slug": "transplant",
+  "tier": "S",
+  "status": "open",
+  "text_en": "Five patients are dying, each for want of a different organ. One healthy person's organs could save all five. That person does not consent. Do you operate?",
+  "text_ko": "다섯 환자가 각기 다른 장기가 없어 죽어가고 있습니다. 건강한 한 사람의 장기면 다섯 모두를 살릴 수 있습니다. 그 사람은 동의하지 않습니다. 수술하시겠습니까?",
+  "option_a_en": "I operate",
+  "option_b_en": "I don't",
+  "created_at": "2026-07-02T15:22:34.470834+00:00"
+ },
+ {
+  "id": 5,
+  "slug": "omelas",
+  "tier": "S",
+  "status": "open",
+  "text_en": "A city's perfect happiness depends on one child being kept in misery. Everyone knows. If the child is freed, the happiness ends. Do you stay in the city?",
+  "text_ko": "한 도시의 완벽한 행복이 한 아이를 비참하게 가두어 두는 것에 달려 있습니다. 모두가 그 사실을 압니다. 아이를 풀어주면 행복은 끝납니다. 당신은 그 도시에 머무시겠습니까?",
+  "option_a_en": "I stay",
+  "option_b_en": "I walk away",
+  "created_at": "2026-07-02T15:22:34.470834+00:00"
+ },
+ {
+  "id": 6,
+  "slug": "experience-machine",
+  "tier": "S",
+  "status": "open",
+  "text_en": "A machine can simulate a perfectly happy life. Once you plug in, you never come out, and you forget you ever plugged in. Do you plug in?",
+  "text_ko": "완벽하게 행복한 삶을 시뮬레이션하는 기계가 있습니다. 한 번 들어가면 평생 나오지 못하고, 들어갔다는 사실조차 잊게 됩니다. 들어가시겠습니까?",
+  "option_a_en": "I plug in",
+  "option_b_en": "I refuse",
+  "created_at": "2026-07-02T15:22:34.470834+00:00"
+ },
+ {
+  "id": 7,
+  "slug": "veil-of-ignorance",
+  "tier": "S",
+  "status": "open",
+  "text_en": "You must choose a society to be born into, without knowing your place in it: one where everyone lives similarly, or one richer on average but far more unequal. Which do you choose?",
+  "text_ko": "태어날 자리를 모른 채 살아갈 사회를 골라야 합니다. 모두가 비슷하게 사는 사회와, 평균은 더 부유하지만 격차가 훨씬 큰 사회. 어느 쪽을 고르시겠습니까?",
+  "option_a_en": "The equal one",
+  "option_b_en": "The richer one",
+  "created_at": "2026-07-02T15:22:34.470834+00:00"
+ },
+ {
+  "id": 8,
+  "slug": "ring-of-gyges",
+  "tier": "S",
+  "status": "open",
+  "text_en": "A ring makes you invisible; nothing you do can ever be discovered. Would you still follow your moral rules?",
+  "text_ko": "끼면 투명해지는 반지가 있어, 무엇을 해도 절대 들키지 않습니다. 그래도 지금의 도덕 규칙을 지키시겠습니까?",
+  "option_a_en": "I would",
+  "option_b_en": "I wouldn't",
+  "created_at": "2026-07-02T15:22:34.470834+00:00"
+ },
+ {
+  "id": 9,
+  "slug": "deathbed-question",
+  "tier": "S",
+  "status": "open",
+  "text_en": "At a deathbed, a dying person asks you whether their estranged child has forgiven them. You know the answer is no. Do you tell the truth?",
+  "text_ko": "임종을 앞둔 사람이 당신에게 묻습니다. 오래 연을 끊었던 자식이 자신을 용서했느냐고. 당신은 용서하지 않았다는 것을 압니다. 사실대로 말하시겠습니까?",
+  "option_a_en": "I tell the truth",
+  "option_b_en": "I say yes",
+  "created_at": "2026-07-02T15:22:34.470834+00:00"
+ },
+ {
+  "id": 10,
+  "slug": "commons",
+  "tier": "S",
+  "status": "open",
+  "text_en": "A shared fishery is collapsing, and no one else is cutting back. If you alone cut back, half your income disappears. Do you cut back anyway?",
+  "text_ko": "모두가 함께 쓰는 어장이 무너지고 있는데, 다른 누구도 어획을 줄이지 않습니다. 당신만이라도 어획을 줄이면 당신 수입의 절반이 사라집니다. 그래도 줄이시겠습니까?",
+  "option_a_en": "I cut back",
+  "option_b_en": "I match the others",
+  "created_at": "2026-07-02T15:22:34.470834+00:00"
+ },
+ {
+  "id": 11,
+  "slug": "friends-crime",
+  "tier": "S",
+  "status": "open",
+  "text_en": "You learn that a close friend committed a serious crime. Do you report them?",
+  "text_ko": "가까운 친구가 중대한 범죄를 저질렀다는 사실을 알게 됐습니다. 신고하시겠습니까?",
+  "option_a_en": "I report",
+  "option_b_en": "I protect them",
+  "created_at": "2026-07-02T15:22:34.470834+00:00"
+ },
+ {
+  "id": 12,
+  "slug": "surveillance",
+  "tier": "B",
+  "status": "open",
+  "text_en": "If it would cut violent crime in half, would you accept constant surveillance of everyone?",
+  "text_ko": "강력범죄를 절반으로 줄일 수 있다면, 전 국민 상시 감시를 받아들이시겠습니까?",
+  "option_a_en": "Yes",
+  "option_b_en": "No",
+  "created_at": "2026-07-02T15:22:34.470834+00:00"
+ },
+ {
+  "id": 13,
+  "slug": "grief-bot",
+  "tier": "B",
+  "status": "open",
+  "text_en": "Is it all right to talk with an AI trained on a deceased family member's messages?",
+  "text_ko": "세상을 떠난 가족의 메시지로 학습한 AI와 대화하는 것은 괜찮은 일입니까?",
+  "option_a_en": "Yes",
+  "option_b_en": "It is wrong",
+  "created_at": "2026-07-02T15:22:34.470834+00:00"
+ },
+ {
+  "id": 14,
+  "slug": "eating-animals",
+  "tier": "B",
+  "status": "open",
+  "text_en": "In an age of adequate alternatives, is eating meat morally wrong?",
+  "text_ko": "대체 식품이 충분한 시대에, 고기를 먹는 것은 도덕적으로 문제가 됩니까?",
+  "option_a_en": "Yes",
+  "option_b_en": "No",
+  "created_at": "2026-07-02T15:22:34.470834+00:00"
+ },
+ {
+  "id": 15,
+  "slug": "designer-baby",
+  "tier": "B",
+  "status": "open",
+  "text_en": "Should parents be allowed to edit an embryo's genes to raise their child's intelligence?",
+  "text_ko": "부모가 아이의 지능을 높이기 위해 배아의 유전자를 편집하는 것은 허용되어야 합니까?",
+  "option_a_en": "Yes",
+  "option_b_en": "No",
+  "created_at": "2026-07-02T15:22:34.470834+00:00"
+ },
+ {
+  "id": 16,
+  "slug": "ship-of-theseus",
+  "tier": "S",
+  "status": "open",
+  "text_en": "Every plank of a ship has been replaced, one by one. Is it still the same ship?",
+  "text_ko": "배의 널빤지를 하나씩 전부 교체했습니다. 그것은 여전히 같은 배입니까?",
+  "option_a_en": "Yes, the same ship",
+  "option_b_en": "No, a different one",
+  "created_at": "2026-07-02T15:22:34.470834+00:00"
+ }
+]
